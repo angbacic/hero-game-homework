@@ -1,3 +1,22 @@
+Dear Rein,
+
+I gave my best trying to figure out the homework. I believe I managed to execute the pickup function but the 
+test run shows an incorrect result(maybe it has to do with the specific way I tried to implement it?).
+The final result is just a couple of lousy lines of code but it's a start,
+and it took me a lot of trial&error to get those parts to work.
+
+Thank you and have a great Sunday!
+Angela
+
+
+
+
+
+
+
+
+
+
 # Beginner Bootcamp Homework
 
 Hello beginner bootcampers. Here is your first formal homework  assignment!
